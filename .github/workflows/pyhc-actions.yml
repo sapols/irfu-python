@@ -2,7 +2,7 @@ name: PyHC Actions
 
 on:
   push:
-    branches: [master]
+    branches: [pyhc-actions-demo]
   pull_request:
     branches: [master]
   schedule:
